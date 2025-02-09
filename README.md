@@ -19,7 +19,7 @@
 - `div`, `span`태그의 사용을 최대한 지양한다.
 - README.md 작성법은 [다음](https://commonmark.org/help/)을 참고한다.
 - 시멘틱 태그의 구조와 예시는 [MDN](https://developer.mozilla.org/ko/docs/Glossary/Semantics), [W3C](https://www.w3schools.com/html/html5_semantic_elements.asp)의 공식 문서를 참고한다.
-- 1주차 과제는 **2월 18일 자정**까지 제출한다.
+- 1주차 과제는 **2월 16일 자정**까지 제출한다.
 
 ## 🚀 과제 진행 요구 사항
 
