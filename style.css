@@ -56,10 +56,11 @@ a{
 }
 
 .navbar_info{
-    margin-top: 180px;
+    margin-top: 150px;
     display: flex;             
     justify-content: center;   /* 가로 중앙 */
     align-items: center;  /*세로 중앙*/
+    margin-bottom: 45px;
 }
 
 
@@ -86,8 +87,8 @@ a{
 }
 
 .text_info i{
-    border-radius: 100%;
-    font-size: 25px;
+    border-radius: 50%;
+    font-size: 20px;
     background-color : var(--gray-dark-color);
     width: 30px;
     height: 30px;
@@ -102,8 +103,45 @@ a{
     background-color:var(--pink-light-color) ;
 }
 
+h2{
+ text-align: center;
+ font-size: var(--font-big);
+}
+
 
 /*goals css*/
+caption{
+    margin-bottom: 20px;
+    font-size: var(--font-large);
+}
+
+th{
+    width: 50px;/*균등한 넓이?*/
+    background-color: var(--gray-dark-color);
+    color:var(--white-color);
+    font-size: var(--font-medium);
+}
+
+td{
+    background-color: var(--gray-light-color);
+}
+
+h3{
+    font-size: var(--font-medium);
+    font-weight: 600;
+}
+
+table,th,td{
+    padding:  10px;
+}
+
+table {
+    border-spacing: 70px 0px; 
+    width: 100%;
+    text-align: center;
+}
+
+
 
 
 
