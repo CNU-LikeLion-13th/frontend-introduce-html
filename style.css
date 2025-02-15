@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #d3d3d3dd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.nav-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-menu li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.profile-info {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.profile-info dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+article {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.goals-container {
+    display: flex;
+    justify-content: center;
+}
+
+.goal-box {
+    width: 200px;
+    margin-right: 50px;
+    text-align: center;
+}
