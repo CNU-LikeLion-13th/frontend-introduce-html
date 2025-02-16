@@ -1,0 +1,49 @@
+header {
+    background-color : #ddd;
+    padding: 10px;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: auto;  
+  }
+  
+  nav a {
+    
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+  }
+
+  main {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding : 50px;
+  }
+
+  .picture img{
+    width: 200px;
+    height: 190px;
+    margin-right: 100px;
+  }
+
+  .hobby_info li{
+    list-style: none;
+    line-height: 200%;
+  }
+
+  main section {
+    margin-right: 100px;
+    
+  }
+
+  .Goals_pic img{
+    width: 200px;
+    height: 200px;
+  }
+
